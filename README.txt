@@ -1,10 +1,31 @@
-📄 Portfolio Website – Anas Aziz
+# 🌐 Anas Aziz – Portfolio Website
 
-This is my personal portfolio website designed to showcase my background, skills, and key projects in data analysis and web development.
+Welcome to my personal portfolio website!
 
- Features
+This site highlights my journey, skills, and projects as a data-driven tech enthusiast. Built with modern web technologies, it showcases my work in data analysis, web development, and dashboard design.
 
-- Fully responsive layout
-- About Me, Projects, and Contact sections
-- Interactive and modern UI
-- Built with clean HTML, CSS, and JavaScript.
+## 🔧 Built With
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- GitHub Pages
+
+## 🧠 Skills Highlighted
+
+- Data Analysis (SQL, Python)  
+- Machine Learning (Regression, Prediction Models)  
+- Data Visualization (Power BI, Tableau)  
+- Web Development (HTML, CSS, JS)
+
+## 📌 Live Site
+
+Visit here: [https://anasaziz2.github.io](https://anasaziz2.github.io) *(Update with your actual URL if different)*
+
+## 📬 Contact
+
+Feel free to connect or collaborate:
+- 📍 Hyderabad, India  
+- 📧 Email: aanasaziz29@gmail.com  
+- 🌐 Portfolio: [anasaziz2.github.io](https://anasaziz2.github.io)
+
