@@ -27,4 +27,4 @@ Visit here: [https://azzu29.github.io/AnasAziz2.github.io/](https://azzu29.githu
 Feel free to connect or collaborate:
 - 📍 Hyderabad, India  
 - 📧 Email: aanasaziz29@gmail.com  
-- 🌐 Portfolio: [anasaziz2.github.io](https://anasaziz2.github.io)
+- 🌐 Portfolio: (https://azzu29.github.io/AnasAziz2.github.io/)
