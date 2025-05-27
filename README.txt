@@ -6,8 +6,8 @@ This site highlights my journey, skills, and projects as a data-driven tech enth
 
 ## 🔧 Built With
 
-- HTML5  
-- CSS3  
+- HTML
+- CSS  
 - JavaScript  
 - GitHub Pages
 
@@ -20,7 +20,7 @@ This site highlights my journey, skills, and projects as a data-driven tech enth
 
 ## 📌 Live Site
 
-Visit here: [https://anasaziz2.github.io](https://anasaziz2.github.io) *(Update with your actual URL if different)*
+Visit here: (https://azzu29.github.io/AnasAziz2.github.io/)
 
 ## 📬 Contact
 
