@@ -1,6 +1,6 @@
 # 🌐 Anas Aziz – Portfolio Website
 
-Welcome to my personal portfolio website!
+Welcome to my Personal Portfolio Website!
 
 This site highlights my journey, skills, and projects as a data-driven tech enthusiast. Built with modern web technologies, it showcases my work in data analysis, web development, and dashboard design.
 
